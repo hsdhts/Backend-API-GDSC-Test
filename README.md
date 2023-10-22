@@ -33,7 +33,7 @@ Before running this project, make sure you have the following:
 1. Clone this repository to your computer:
 
    ```bash
-   git clone https://github.com/username/repo-name.git
+   git clone https://github.com/hsdhts/Backend-API-GDSC-Test.git
 
 2. > Base url of this service is: http://localhost:8080/
   
